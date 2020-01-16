@@ -1,0 +1,6 @@
+.idea
+/venv
+venv/
+env
+firebase-private-key.json
+__pycache__
